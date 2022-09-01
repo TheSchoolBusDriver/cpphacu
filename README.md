@@ -1,0 +1,2 @@
+# cpphacu
+small C++ library
